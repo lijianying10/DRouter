@@ -1,0 +1,11 @@
+{
+    "port":"9090",
+    "accesslog":"./access.log",
+    "static":{
+        "/":"/Users/Li-jianying/h/static/"
+    },
+    "router":{
+        "/login_check":"g.newb.xyz:9090",
+        "/login_action":"g.newb.xyz:9090"
+    }
+}
