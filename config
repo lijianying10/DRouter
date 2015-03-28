@@ -5,7 +5,7 @@
         "/":"/Users/Li-jianying/h/static/"
     },
     "router":{
-        "/login_check":"g.newb.xyz:9090",
-        "/login_action":"g.newb.xyz:9090"
+        "/xxxxxxx":"www.baidu.com:9090",
+        "/xxxxxx":"www.baidu.com:9090"
     }
 }
