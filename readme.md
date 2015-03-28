@@ -25,6 +25,24 @@ conf： 读取配置文件并保存配置到内存中
 2. 然后检查 ./drouter.conf
 3. 最后如果命令中出现了文件参数则直接读取文件
 
+## 下载地址：
+[http://picstorage.qiniudn.com/DRouter_darwin_386](http://picstorage.qiniudn.com/DRouter_darwin_386)
+[http://picstorage.qiniudn.com/DRouter_darwin_amd64](http://picstorage.qiniudn.com/DRouter_darwin_amd64)
+[http://picstorage.qiniudn.com/DRouter_freebsd_386](http://picstorage.qiniudn.com/DRouter_freebsd_386)
+[http://picstorage.qiniudn.com/DRouter_freebsd_amd64](http://picstorage.qiniudn.com/DRouter_freebsd_amd64)
+[http://picstorage.qiniudn.com/DRouter_freebsd_arm](http://picstorage.qiniudn.com/DRouter_freebsd_arm)
+[http://picstorage.qiniudn.com/DRouter_linux_386](http://picstorage.qiniudn.com/DRouter_linux_386)
+[http://picstorage.qiniudn.com/DRouter_linux_amd64](http://picstorage.qiniudn.com/DRouter_linux_amd64)
+[http://picstorage.qiniudn.com/DRouter_linux_arm](http://picstorage.qiniudn.com/DRouter_linux_arm)
+[http://picstorage.qiniudn.com/DRouter_netbsd_386](http://picstorage.qiniudn.com/DRouter_netbsd_386)
+[http://picstorage.qiniudn.com/DRouter_netbsd_amd64](http://picstorage.qiniudn.com/DRouter_netbsd_amd64)
+[http://picstorage.qiniudn.com/DRouter_netbsd_arm](http://picstorage.qiniudn.com/DRouter_netbsd_arm)
+[http://picstorage.qiniudn.com/DRouter_openbsd_386](http://picstorage.qiniudn.com/DRouter_openbsd_386)
+[http://picstorage.qiniudn.com/DRouter_openbsd_amd64](http://picstorage.qiniudn.com/DRouter_openbsd_amd64)
+[http://picstorage.qiniudn.com/DRouter_plan9_386](http://picstorage.qiniudn.com/DRouter_plan9_386)
+[http://picstorage.qiniudn.com/DRouter_windows_386.exe](http://picstorage.qiniudn.com/DRouter_windows_386.exe)
+[http://picstorage.qiniudn.com/DRouter_windows_amd64.exe](http://picstorage.qiniudn.com/DRouter_windows_amd64.exe)
+
 ## TODOList：
 1. https 支持
 2. 换个更好的配置文件
