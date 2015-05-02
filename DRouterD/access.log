@@ -1,0 +1,13 @@
+2015/05/02 18:35:36 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:37:01 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:39:01 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:40:01 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:40:01 /Volumes/Home/git/src/DRouter/main.go:14: http server Error :  listen tcp :9090: bind: address already in use
+2015/05/02 18:40:31 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:40:31 /Volumes/Home/git/src/DRouter/main.go:14: http server Error :  listen tcp :9090: bind: address already in use
+2015/05/02 18:41:16 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:41:16 /Volumes/Home/git/src/DRouter/main.go:14: http server Error :  listen tcp :9090: bind: address already in use
+2015/05/02 18:42:27 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:45:18 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:47:51 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
+2015/05/02 18:49:19 /Volumes/Home/git/src/DRouter/main.go:11: Welcome to DRouter for reverse proxy and static file
